@@ -2,11 +2,12 @@
 title: KATARZYNA JÓŹWICKA - Trener osobisty
 email: kjtrenerosobisty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Osiągnij optimalną formę!
-baseurl: "/kasiaTrener" # the subpath of your site, e.g. /blog/
+  Osiągnij optymalną formę!
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kjtrenerosobisty.pl" # the base hostname & protocol for your site
-twitter_username: kjtrenerosobisty
-github_username:  paweld2
+#twitter_username: kjtrenerosobisty
+#github_username:  paweld2
+phone_number: (+48) 504 692 822
 
 # Build settings
 markdown: kramdown
